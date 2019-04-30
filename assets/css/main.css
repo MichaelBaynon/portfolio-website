@@ -1636,6 +1636,7 @@ input, select, textarea {
 			display: block;
 			width: 100%;
 			transform: rotate(90deg);
+			-webkit-transform: rotate(90deg);
 		}
 
 		.image.featured {
